@@ -1,2 +1,2 @@
 set ws=WScript.CreateObject("WScript.Shell")
-ws.Run "update.bat",0
+ws.Run "C:\OneDrive\Notebook\update.bat",0
